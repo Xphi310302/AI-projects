@@ -1,0 +1,33 @@
+LO,FO,RO,LV,RV
+N,N,N,Slow,Slow
+N,N,M,Medium,Slow
+N,N,F,Fast,Slow
+N,M,N,Slow,Slow
+N,M,M,Fast,Medium
+N,M,F,Fast,Slow
+N,F,N,Slow,Slow
+N,F,M,Fast,Medium
+N,F,F,Fast,Slow
+M,N,N,Medium,Fast
+VN,VN,VN,Very Slow,Very Slow
+VF,VN,N,Very Slow,Very Fast
+VN,VN,M,Fast,Very Slow
+VN,VN,F,Fast,Slow
+VN,VN,VF,Very Fast,Very Slow
+VN,N,VN,Slow,Slow
+VN,N,N,Slow,Very Slow
+VN,N,M,Fast,Slow
+VN,N,F,Fast,Slow
+VN,N,VF,Very Fast,Very Slow
+N,F,M,Fast,Slow
+N,M,F,Fast,Slow
+N,M,N,Slow,Fast
+F,N,M,Slow,Fast
+F,M,N,Fast,Slow
+F,F,F,Slow,Fast
+VN,F,N,Slow,Very Slow
+VN,M,VF,Very Fast,Very Slow
+N,F,F,Fast,Slow
+M,F,N,Slow,Medium
+F,M,N,Medium,Fast
+F,VF,N,Medium,Very Fast
